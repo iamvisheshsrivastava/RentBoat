@@ -1,0 +1,5 @@
+c:\users\visheshs\documents\visual studio 2012\Projects\BoatRents\BoatRents.DAL\bin\BoatRents.DAL.dll
+c:\users\visheshs\documents\visual studio 2012\Projects\BoatRents\BoatRents.DAL\bin\BoatRents.DAL.pdb
+c:\users\visheshs\documents\visual studio 2012\Projects\BoatRents\BoatRents.DAL\obj\Debug\BoatRents.DAL.dll
+c:\users\visheshs\documents\visual studio 2012\Projects\BoatRents\BoatRents.DAL\obj\Debug\BoatRents.DAL.pdb
+c:\users\visheshs\documents\visual studio 2012\Projects\BoatRents\BoatRents.DAL\obj\Debug\BoatRents.DAL.csprojResolveAssemblyReference.cache
