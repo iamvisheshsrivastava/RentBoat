@@ -1,6 +1,6 @@
 # RentBoat
 
-RentBoat is a web-based application designed to manage boat rentals efficiently. The application provides functionality to manage boat inventory and facilitate the rental process for customers.
+RentBoat is a web-based application designed to manage boat rentals efficiently. The application provides functionality to manage boat inventory and facilitate the rental process for customers. 
 
 ## Features
 
